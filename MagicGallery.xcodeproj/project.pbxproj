@@ -13,6 +13,7 @@
 		7A4F441F2824FFB500425CFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F441D2824FFB500425CFF /* Main.storyboard */; };
 		7A4F44212824FFB800425CFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F44202824FFB800425CFF /* Assets.xcassets */; };
 		7A4F44242824FFB800425CFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F44222824FFB800425CFF /* LaunchScreen.storyboard */; };
+		7A4F442B2824FFF600425CFF /* EiffelTower.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F442A2824FFF600425CFF /* EiffelTower.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		7A4F441E2824FFB500425CFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7A4F44202824FFB800425CFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A4F44232824FFB800425CFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7A4F442A2824FFF600425CFF /* EiffelTower.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = EiffelTower.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			isa = PBXGroup;
 			children = (
 				7A4F44172824FFB500425CFF /* AppDelegate.swift */,
+				7A4F442A2824FFF600425CFF /* EiffelTower.mp4 */,
 				7A4F44192824FFB500425CFF /* art.scnassets */,
 				7A4F441B2824FFB500425CFF /* ViewController.swift */,
 				7A4F441D2824FFB500425CFF /* Main.storyboard */,
@@ -127,6 +130,7 @@
 				7A4F44242824FFB800425CFF /* LaunchScreen.storyboard in Resources */,
 				7A4F44212824FFB800425CFF /* Assets.xcassets in Resources */,
 				7A4F441F2824FFB500425CFF /* Main.storyboard in Resources */,
+				7A4F442B2824FFF600425CFF /* EiffelTower.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +289,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = N26MX7V92N;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -314,6 +319,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = N26MX7V92N;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
